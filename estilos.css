@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+p{
+    color:rgb(5, 112, 184);
+    font-size: 24px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#NYA-jaja{
+    color:blue;
+    font-size:2em;
+    font-weight:bold;
+}
+.sex{
+    text-align: center;
+}
+a, img{
+    display: block;
+}
+#ryo, #miku{
+    display: inline;
+}
+a{
+    margin: 50px 20px;
+    text-decoration: none;
+}
+#NYA-jaja:hover{
+    color: rgb(162, 0, 202);
+    text-decoration:underline;
+}
+img{
+    width: 45%;
+}
